@@ -48,12 +48,12 @@ class Student extends Person {
 
 void main() {
   Student student = Student(
-    name: "Alice",
-    age: 20,
-    address: "456 University Road",
-    studentID: "S12345",
-    grade: "A",
-    courseScores: [85.5, 90.0, 78.0, 92.5],
+    name: "Rayhan",
+    age: 22,
+    address: "Notun Bazar,Badda",
+    studentID: "124787",
+    grade: "A+",
+    courseScores: [85.5, 90.0, 88.0, 92.5],
   );
 
   print("Name: ${student.getName}");
